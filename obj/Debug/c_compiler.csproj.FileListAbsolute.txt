@@ -1,0 +1,22 @@
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\bin\Debug\c_compiler.exe.config
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\bin\Debug\c_compiler.exe
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\bin\Debug\c_compiler.pdb
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.csprojAssemblyReference.cache
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.Form1.resources
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.Properties.Resources.resources
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.csproj.GenerateResource.cache
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.csproj.CoreCompileInputs.cache
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.exe
+C:\Users\Vivian Meng\source\repos\c_compiler\c_compiler\obj\Debug\c_compiler.pdb
+E:\c_compiler\c_compiler\bin\Debug\c_compiler.exe.config
+E:\c_compiler\c_compiler\bin\Debug\c_compiler.exe
+E:\c_compiler\c_compiler\bin\Debug\c_compiler.pdb
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.csprojAssemblyReference.cache
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.Form1.resources
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.Properties.Resources.resources
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.csproj.GenerateResource.cache
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.csproj.CoreCompileInputs.cache
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.exe
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.pdb
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.Form2.resources
+E:\c_compiler\c_compiler\obj\Debug\c_compiler.Form3.resources
