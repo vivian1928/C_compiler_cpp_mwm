@@ -1,0 +1,1 @@
+void main ( ) { int i , x = 1 ; double sum = 0 ; double a = 3 , b = 4 ; for ( i = 10 ; i > 0 ; i -- ) { if ( i > 2 ) sum = sum + a ; else sum = sum + b ; } switch ( x ) { case 1 : sum = 1 ; default : sum = 2 ; } } $

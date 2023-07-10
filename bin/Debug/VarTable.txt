@@ -1,0 +1,5 @@
+1	i	int	0000:0200	
+2	x	int	0000:0002	
+3	sum	double	0000:0002	
+4	a	double	0000:0004	
+5	b	double	0000:0004	

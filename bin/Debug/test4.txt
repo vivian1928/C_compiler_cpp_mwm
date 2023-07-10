@@ -1,0 +1,13 @@
+void main(){
+	int26 a = df;
+	int26 e = ac;
+	int b = 5, c = 10;
+	int d = b + 2;
+	a = a + e;
+	while(c == 10){
+		c = a;
+		while(c == 85){
+			c = c + a;
+		}
+	}
+}
